@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/itertools_maximize_it.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itertools_permutations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itertools_maximize_it.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inter</find>
+      <find>int</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Yashawant Retharekar &lt;yashwant.retharekar@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/symetric_difference.py" />
+        <option value="$PROJECT_DIR$/set_add.py" />
+        <option value="$PROJECT_DIR$/set_discard_remove_pop.py" />
+        <option value="$PROJECT_DIR$/set_union.py" />
+        <option value="$PROJECT_DIR$/main/hello.py" />
+        <option value="$PROJECT_DIR$/test_some_func.py" />
+        <option value="$PROJECT_DIR$/set_intersection.py" />
+        <option value="$PROJECT_DIR$/test_find_difference.py" />
+        <option value="$PROJECT_DIR$/set_difference.py" />
+        <option value="$PROJECT_DIR$/test/test_find_difference.py" />
+        <option value="$PROJECT_DIR$/set_symmetric_difference.py" />
+        <option value="$PROJECT_DIR$/test/test_find_sym_difference.py" />
+        <option value="$PROJECT_DIR$/swap_case.py" />
+        <option value="$PROJECT_DIR$/set_mutation.py" />
+        <option value="$PROJECT_DIR$/the_captains_room.py" />
+        <option value="$PROJECT_DIR$/set_check_subset.py" />
+        <option value="$PROJECT_DIR$/set_check_strict_superset.py" />
+        <option value="$PROJECT_DIR$/math_polar_cooradinates.py" />
+        <option value="$PROJECT_DIR$/find_angle_mbc.py" />
+        <option value="$PROJECT_DIR$/triangle_quest_2.py" />
+        <option value="$PROJECT_DIR$/triangle_quest.py" />
+        <option value="$PROJECT_DIR$/itertools_product.py" />
+        <option value="$PROJECT_DIR$/itertools_permutations.py" />
+        <option value="$PROJECT_DIR$/itertools_combinations.py" />
+        <option value="$PROJECT_DIR$/itertools_combinations_with_replacement.py" />
+        <option value="$PROJECT_DIR$/itertools_compress_the_string.py" />
+        <option value="$PROJECT_DIR$/itertools_iterables_and_iterators.py" />
+        <option value="$PROJECT_DIR$/itertools_maximize_it.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python domain hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python domain hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practicalAI" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.itertools_iterables_and_iterators">
+    <configuration name="itertools_combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools_combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itertools_compress_the_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools_compress_the_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itertools_iterables_and_iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools_iterables_and_iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itertools_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools_permutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle_quest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangle_quest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in set_intersection.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/set_intersection.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/set_intersection.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.triangle_quest" />
+      <item itemvalue="Python tests.Unittests in set_intersection.py" />
+      <item itemvalue="Python.itertools_permutations" />
+      <item itemvalue="Python.itertools_combinations" />
+      <item itemvalue="Python.itertools_compress_the_string" />
+      <item itemvalue="Python.itertools_iterables_and_iterators" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.itertools_iterables_and_iterators" />
+        <item itemvalue="Python.itertools_compress_the_string" />
+        <item itemvalue="Python.itertools_combinations" />
+        <item itemvalue="Python.itertools_permutations" />
+        <item itemvalue="Python.triangle_quest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="" />
+      <created>1540724570172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540724570172</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Got max 10 points for symetric_difference">
+      <created>1540744547450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540744547450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Got max 10 points for set_add">
+      <created>1540745245364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540745245364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Got max 10 points for set_discard_remove_pop.py">
+      <created>1540748897412</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540748897412</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Got max 10 points for set_union.py">
+      <created>1543256588362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543256588362</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Got max 10 points for set_intersection.py">
+      <created>1543686998435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543686998435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Got max 10 points for set_difference.py">
+      <created>1544861063046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544861063046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Got max 10 points for set_symmetric_difference.py">
+      <created>1544863535432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544863535432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Got max 10 points for set_mutation.py">
+      <created>1544904479359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544904479359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Got max 10 points for the_captains_room.py">
+      <created>1544958565634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544958565634</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Got max 10 points for set_check_subset.py">
+      <created>1544964152093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544964152093</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Got max 10 points for set_check_strict_superset.py">
+      <created>1544965234090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544965234090</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Got max 10 points for math_polar_cooradinates.py">
+      <created>1544981100385</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544981100385</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Got max 10 points for find_angle_mbc.py">
+      <created>1545672541165</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1545672541165</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Got max 20 points for triangle_quest_2.py">
+      <created>1545674139527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1545674139527</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Got max 20 points for triangle_quest_2.py">
+      <created>1545675211502</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1545675211502</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Got max 20 points for triangle_quest.py">
+      <created>1545732450825</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545732450825</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Got max 10 points for itertools_product.py">
+      <created>1545735140699</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1545735140699</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Got max 10 points for itertools_permutations.py">
+      <created>1545736557759</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1545736557759</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Got max 10 points for itertools_combinations.py">
+      <created>1545737842773</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1545737842773</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Got max 10 points for itertools_combinations_with_replacements.py">
+      <created>1545742834824</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1545742834824</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Got max 20 points for itertools_compress_the_string.py">
+      <created>1545746203647</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1545746203647</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Got max 40 points for itertools_iterables_and_iterators.py">
+      <created>1545760795145</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545760795145</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_find_difference_TestFindDifference_test_find_difference - 2018.12.01 at 23h 33m 22s.xml">
+      <configuration name="Unittests for test_find_difference.TestFindDifference.test_find_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFindDifference_test_find_difference - 2018.12.01 at 23h 35m 13s.xml">
+      <configuration name="Unittests for test_find_difference.TestFindDifference.test_find_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFindDifference_test_find_difference - 2018.12.01 at 23h 36m 15s.xml">
+      <configuration name="Unittests for test_find_difference.TestFindDifference.test_find_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFindDifference_test_find_difference - 2018.12.01 at 23h 36m 29s.xml">
+      <configuration name="Unittests for test_find_difference.TestFindDifference.test_find_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFindDifference_test_find_difference - 2018.12.01 at 23h 37m 13s.xml">
+      <configuration name="Unittests for test_find_difference.TestFindDifference.test_find_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFind_difference - 2018.12.15 at 13h 39m 59s.xml">
+      <configuration name="Unittests for test_find_difference.TestFind_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_difference_TestFind_difference_(1) - 2018.12.15 at 13h 41m 06s.xml">
+      <configuration name="Unittests for test_find_difference.TestFind_difference (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_sym_difference_TestFind_sym_difference - 2018.12.15 at 13h 44m 26s.xml">
+      <configuration name="Unittests for test_find_sym_difference.TestFind_sym_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_sym_difference_TestFindSymDifference_test_find_sym_difference - 2018.12.15 at 13h 49m 32s.xml">
+      <configuration name="Unittests for test_find_sym_difference.TestFindSymDifference.test_find_sym_difference" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_find_sym_difference_TestFindSymDifference_test_find_sym_difference - 2018.12.15 at 13h 50m 05s.xml">
+      <configuration name="Unittests for test_find_sym_difference.TestFindSymDifference.test_find_sym_difference" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.3267776" />
+      <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info auto_hide="true" id="Dependency Graph" order="3" type="SLIDING" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Got max 10 points for symetric_difference" />
+    <MESSAGE value="Got max 10 points for set_add" />
+    <MESSAGE value="Got max 10 points for set_discard_remove_pop.py" />
+    <MESSAGE value="Got max 10 points for set_union.py" />
+    <MESSAGE value="Got max 10 points for set_intersection.py" />
+    <MESSAGE value="Got max 10 points for set_difference.py" />
+    <MESSAGE value="Got max 10 points for set_symmetric_difference.py" />
+    <MESSAGE value="Got max 10 points for set_mutation.py" />
+    <MESSAGE value="Got max 10 points for the_captains_room.py" />
+    <MESSAGE value="Got max 10 points for set_check_subset.py" />
+    <MESSAGE value="Got max 10 points for set_check_strict_superset.py" />
+    <MESSAGE value="Got max 10 points for math_polar_cooradinates.py" />
+    <MESSAGE value="Got max 10 points for find_angle_mbc.py" />
+    <MESSAGE value="Got max 20 points for triangle_quest_2.py" />
+    <MESSAGE value="Got max 20 points for triangle_quest.py" />
+    <MESSAGE value="Got max 10 points for itertools_product.py" />
+    <MESSAGE value="Got max 10 points for itertools_permutations.py" />
+    <MESSAGE value="Got max 10 points for itertools_combinations.py" />
+    <MESSAGE value="Got max 10 points for itertools_combinations_with_replacements.py" />
+    <MESSAGE value="Got max 20 points for itertools_compress_the_string.py" />
+    <MESSAGE value="Got max 40 points for itertools_iterables_and_iterators.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got max 40 points for itertools_iterables_and_iterators.py" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/symetric_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_union.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/hello.py" />
+    <entry file="file://$PROJECT_DIR$/test_some_func.py" />
+    <entry file="file://$PROJECT_DIR$/test_find_difference.py" />
+    <entry file="file://$PROJECT_DIR$/swap_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_symmetric_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_mutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_discard_remove_pop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_find_sym_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="92" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_intersection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_captains_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_check_subset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_check_strict_superset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_find_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triangle_quest_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_polar_cooradinates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_angle_mbc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triangle_quest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_product.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_combinations_with_replacement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_compress_the_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_iterables_and_iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_maximize_it.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
