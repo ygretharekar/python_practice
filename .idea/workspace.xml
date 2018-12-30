@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections_word_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_deque.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,16 +26,25 @@
         <entry file="file://$PROJECT_DIR$/collection_ordered_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collections_word_order.py">
+        <entry file="file://$PROJECT_DIR$/collection_deque.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="170">
+              <caret line="10" column="14" lean-forward="true" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/set_discard_remove_pop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -99,6 +108,7 @@
         <option value="$PROJECT_DIR$/collections_namedtuple.py" />
         <option value="$PROJECT_DIR$/collection_ordered_list.py" />
         <option value="$PROJECT_DIR$/collections_word_order.py" />
+        <option value="$PROJECT_DIR$/collection_deque.py" />
       </list>
     </option>
   </component>
@@ -143,7 +153,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.collections_word_order">
+  <component name="RunManager" selected="Python.collection_deque">
+    <configuration name="collection_deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection_deque.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="collection_ordered_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python domain hackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,27 +188,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection_ordered_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="collections_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python domain hackerrank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,20 +290,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.collections_counter" />
       <item itemvalue="Python.counter_default_dict" />
       <item itemvalue="Python.collections_namedtuple" />
       <item itemvalue="Python.collection_ordered_list" />
       <item itemvalue="Python tests.Unittests in set_intersection.py" />
       <item itemvalue="Python.collections_word_order" />
+      <item itemvalue="Python.collection_deque" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.collection_deque" />
         <item itemvalue="Python.collections_word_order" />
         <item itemvalue="Python.collection_ordered_list" />
         <item itemvalue="Python.collections_namedtuple" />
         <item itemvalue="Python.counter_default_dict" />
-        <item itemvalue="Python.collections_counter" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546153168828</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="got 50 points">
+      <created>1546181476220</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1546181476221</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -611,7 +628,8 @@
     <MESSAGE value="Got max 40 points for itertools_iterables_and_iterators.py" />
     <MESSAGE value="got max points" />
     <MESSAGE value="got 20 points" />
-    <option name="LAST_COMMIT_MESSAGE" value="got 20 points" />
+    <MESSAGE value="got 50 points" />
+    <option name="LAST_COMMIT_MESSAGE" value="got 50 points" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -665,13 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/set_discard_remove_pop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -811,17 +822,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collection_ordered_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/collections_word_order.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection_ordered_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_discard_remove_pop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection_deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="true" selection-end-line="11" />
         </state>
       </provider>
     </entry>
