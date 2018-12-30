@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections_namedtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_ordered_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collections_counter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -31,8 +31,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collections_namedtuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collection_ordered_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -97,6 +106,7 @@
         <option value="$PROJECT_DIR$/collections_counter.py" />
         <option value="$PROJECT_DIR$/counter_default_dict.py" />
         <option value="$PROJECT_DIR$/collections_namedtuple.py" />
+        <option value="$PROJECT_DIR$/collection_ordered_list.py" />
       </list>
     </option>
   </component>
@@ -141,7 +151,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.collections_namedtuple">
+  <component name="RunManager" selected="Python.collection_ordered_list">
+    <configuration name="collection_ordered_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python domain hackerrank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection_ordered_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="collections_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python domain hackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,27 +236,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="itertools_compress_the_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python domain hackerrank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools_compress_the_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="itertools_iterables_and_iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python domain hackerrank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,20 +288,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.itertools_compress_the_string" />
       <item itemvalue="Python.itertools_iterables_and_iterators" />
       <item itemvalue="Python.collections_counter" />
-      <item itemvalue="Python tests.Unittests in set_intersection.py" />
       <item itemvalue="Python.counter_default_dict" />
       <item itemvalue="Python.collections_namedtuple" />
+      <item itemvalue="Python tests.Unittests in set_intersection.py" />
+      <item itemvalue="Python.collection_ordered_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.collection_ordered_list" />
         <item itemvalue="Python.collections_namedtuple" />
         <item itemvalue="Python.counter_default_dict" />
         <item itemvalue="Python.collections_counter" />
         <item itemvalue="Python.itertools_iterables_and_iterators" />
-        <item itemvalue="Python.itertools_compress_the_string" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546108780083</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="got 20 points">
+      <created>1546110471141</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546110471141</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -504,19 +521,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.33736762" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.34266263" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.24962178" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info auto_hide="true" id="Dependency Graph" order="3" type="SLIDING" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49848714" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
@@ -593,7 +611,8 @@
     <MESSAGE value="Got max 20 points for itertools_compress_the_string.py" />
     <MESSAGE value="Got max 40 points for itertools_iterables_and_iterators.py" />
     <MESSAGE value="got max points" />
-    <option name="LAST_COMMIT_MESSAGE" value="got max points" />
+    <MESSAGE value="got 20 points" />
+    <option name="LAST_COMMIT_MESSAGE" value="got 20 points" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -774,7 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collections_counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -787,6 +806,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collections_namedtuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection_ordered_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
