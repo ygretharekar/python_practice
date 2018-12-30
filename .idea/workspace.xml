@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections_piling_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date_and_time_calendar_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,13 +23,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collections_piling_up.py">
+        <entry file="file://$PROJECT_DIR$/date_and_time_calendar_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -96,14 +93,15 @@
         <option value="$PROJECT_DIR$/collection_deque.py" />
         <option value="$PROJECT_DIR$/collections_company_logo.py" />
         <option value="$PROJECT_DIR$/collections_piling_up.py" />
+        <option value="$PROJECT_DIR$/calendar_module.py" />
+        <option value="$PROJECT_DIR$/date_and_time_calendar_module.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -501,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546190096762</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="got 50 points">
+      <created>1546192987451</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1546192987451</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -628,10 +633,10 @@
     <MESSAGE value="Got max 20 points for itertools_compress_the_string.py" />
     <MESSAGE value="Got max 40 points for itertools_iterables_and_iterators.py" />
     <MESSAGE value="got max points" />
-    <MESSAGE value="got 50 points" />
     <MESSAGE value="got 20 points" />
     <MESSAGE value="got 30 points" />
-    <option name="LAST_COMMIT_MESSAGE" value="got 30 points" />
+    <MESSAGE value="got 50 points" />
+    <option name="LAST_COMMIT_MESSAGE" value="got 50 points" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -859,13 +864,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calendar_module.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/collections_piling_up.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="158">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_and_time_calendar_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
