@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f519c49-e515-4f73-9cca-a13a5be1b226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/date_and_time_calendar_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date_and_time_time_delta.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +22,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/date_and_time_calendar_module.py">
+        <entry file="file://$PROJECT_DIR$/date_and_time_time_delta.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/collections_piling_up.py" />
         <option value="$PROJECT_DIR$/calendar_module.py" />
         <option value="$PROJECT_DIR$/date_and_time_calendar_module.py" />
+        <option value="$PROJECT_DIR$/date_and_time_time_delta.py" />
       </list>
     </option>
   </component>
@@ -506,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546192987451</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="got 10 points">
+      <created>1546193499306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1546193499306</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -543,7 +550,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.34795764" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.24962178" />
@@ -611,7 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Got max 10 points for symetric_difference" />
     <MESSAGE value="Got max 10 points for set_add" />
     <MESSAGE value="Got max 10 points for set_discard_remove_pop.py" />
     <MESSAGE value="Got max 10 points for set_union.py" />
@@ -636,7 +641,8 @@
     <MESSAGE value="got 20 points" />
     <MESSAGE value="got 30 points" />
     <MESSAGE value="got 50 points" />
-    <option name="LAST_COMMIT_MESSAGE" value="got 50 points" />
+    <MESSAGE value="got 10 points" />
+    <option name="LAST_COMMIT_MESSAGE" value="got 10 points" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -879,8 +885,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/date_and_time_calendar_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_and_time_time_delta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
